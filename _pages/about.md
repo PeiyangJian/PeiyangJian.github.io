@@ -1,4 +1,14 @@
-# 关于我
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+## 关于我
 我是地球科学领域的大四本科生，即将前往北京大学攻读研究生，目前主要研究地球早期核幔分异模型。
 
 ## 教育经历
