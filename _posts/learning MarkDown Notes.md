@@ -1,7 +1,7 @@
 ---
 title: 'Markdown 基础语法'
 date: 2025-04-20
-permalink: /posts/learning MarkDown Notes
+permalink: /posts/2025/04/learning MarkDown Notes/
 tags:
   - markdown
   - grammer
