@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome To My Homepage !"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## About me
-我是地球科学领域的大四本科生，目前主要研究地球早期核幔分异模型。
+I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth
 
 ## Education
 - **2021.09-2025.06** China University of Geosciences, *Exploration Engineering of Mineral Resources*
