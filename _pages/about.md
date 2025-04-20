@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-## 关于我
-我是地球科学领域的大四本科生，即将前往北京大学攻读研究生，目前主要研究地球早期核幔分异模型。
+## About me
+我是地球科学领域的大四本科生，目前主要研究地球早期核幔分异模型。
 
-## 教育经历
-- **2021.09-2025.06** 中国地质大学（武汉） 资源勘查工程（工科基地班）
-- **2025.09-2028.06** 北京大学 实验地球化学
+## Education
+- **2021.09-2025.06** China University of Geosciences, *Exploration Engineering of Mineral Resources*
+- **2025.09-2028.06** Peking University, *Geochemistry* (expected)
 
 - ## 技能
 - **编程语言**: Python、C
