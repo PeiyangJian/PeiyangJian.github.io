@@ -1,7 +1,7 @@
 ---
 title: 'learning MarkDown Notes'
 date: 2025-04-20
-permalink: /posts/2025/04/blog-post-5/
+permalink: /posts/2025/04/notes-markdown/
 tags:
   - markdown
   - grammer
