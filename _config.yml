@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US" # the locale of your site, e.g. "en-US", "fr-FR", "zh-CN"
 # site_theme               : "default"
 title                    : "Peiyang Jian's Homepage"
 title_separator          : "-"
