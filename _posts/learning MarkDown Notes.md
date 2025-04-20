@@ -1,3 +1,13 @@
+---
+title: 'Markdown 基础语法'
+date: 2025-04-20
+permalink: /posts/learning MarkDown Notes
+tags:
+  - markdown
+  - grammer
+  - notes
+---
+
 # Markdown 基础语法
 
 Markdown 是一种轻量级标记语言，常用于编写文档和博客。以下是一些基础语法：
