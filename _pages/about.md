@@ -12,10 +12,12 @@ redirect_from:
 I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth
 
 ## Education
-- **2021.09-2025.06**<br>**China University of Geosciences**<br>*B.E. in Exploration Engineering of Mineral Resources*
-- **2025.09-2028.06**  
-  **Peking University**  
-  *M.S. in Geochemistry (expected)*
+- **2021.09 - 2025.06**
+  - China University of Geosciences
+  - B.E. in Exploration Engineering of Mineral Resources
+- **2025.09 - 2028.06** (expected)
+  - Peking University
+  - M.S. in Geochemistry 
 
 ## Skills
 - Language: Python、C
