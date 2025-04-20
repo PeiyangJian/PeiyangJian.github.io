@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## About me
-I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth
+I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth.
 
 ## Education
 - **2021.09 - 2025.06**
@@ -20,8 +20,8 @@ I'm a fourth year undergraduate, studying modeling the accretion/core formation 
   - M.S. in Geochemistry 
 
 ## Skills
-- Language: Python、C
-- Software: alphaMELTS
+- **Language:** Python、C
+- **Software:** alphaMELTS
 
 ## Honors and Awards
 - *2022 National Scholarship for Undergraduate*
@@ -30,4 +30,4 @@ I'm a fourth year undergraduate, studying modeling the accretion/core formation 
 
 ## Contact
 - ***Email*** : [jpy315@qq.com](mailto:jpy315@qq.com)
-- ***GitHub*** : [https://github.com/peiyangjian](https://github.com/peiyangjian)
+
