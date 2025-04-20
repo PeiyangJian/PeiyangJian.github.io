@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "My journey"
+excerpt: "My journey in WeiHai, China <br/><img src='/images/MyPeriodInCUG/IMG_20241225_102858.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+2024年的12月份，我前往山东威海参加一个冬令营活动 <br/><img src='/images/MyPeriodInCUG/IMG_20241225_104151.jpg'>"
