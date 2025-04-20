@@ -17,9 +17,9 @@ I'm a fourth year undergraduate, studying modeling the accretion/core formation 
   **Peking University**  
   *M.S. in Geochemistry (expected)*
 
-## Skill
-- Python、C
-- software: alphaMELTS
+## Skills
+- Language: Python、C
+- Software: alphaMELTS
 
 ## Honors and Awards
 - *2022 National Scholarship for Undergraduate*
