@@ -1,6 +1,7 @@
 ---
 title: 'learning MarkDown Notes'
 date: 2025-04-20
+excerpt: 'Markdown 基础语法'
 permalink: /posts/2025/04/notes-markdown/
 tags:
   - markdown
