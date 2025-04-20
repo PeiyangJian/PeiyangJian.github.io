@@ -27,5 +27,5 @@ I'm a fourth year undergraduate, studying modeling the accretion/core formation 
 - *2022 感恩近现代科学家助学金*
 
 ## Contact
-- ***Email***: [jpy315@qq.com](mailto:jpy315@qq.com)
-- ***GitHub***: [https://github.com/peiyangjian](https://github.com/peiyangjian)
+- ***Email*** : [jpy315@qq.com](mailto:jpy315@qq.com)
+- ***GitHub*** : [https://github.com/peiyangjian](https://github.com/peiyangjian)
