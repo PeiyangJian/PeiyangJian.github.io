@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 
-## About me
+About me
+========
 I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth.
 
-## Education
+Education
+========
 - **2021.09 - 2025.06**
   - China University of Geosciences
   - B.E. in Exploration Engineering of Mineral Resources
@@ -19,15 +21,18 @@ I'm a fourth year undergraduate, studying modeling the accretion/core formation 
   - Peking University
   - M.S. in Geochemistry 
 
-## Skills
+Skills
+========
 - **Language:** Python、C
 - **Software:** alphaMELTS
 
-## Honors and Awards
+Honors and Awards
+========
 - *2022 National Scholarship for Undergraduate*
 - *2023、2024 National Encouragement Scholarship for Undergraduate*
 - *2022 感恩近现代科学家助学金*
 
-## Contact
+Contact
+========
 - ***Email*** : [jpy315@qq.com](mailto:jpy315@qq.com)
 
