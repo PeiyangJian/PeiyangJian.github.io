@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 
-About me
-========
-I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth.
+
+### ***I'm a fourth year undergraduate, studying modeling the accretion/core formation of proto-earth.***
 
 Education
 ========
